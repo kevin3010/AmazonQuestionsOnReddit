@@ -1,4 +1,6 @@
-# Reddit Amazon Interview Question\n\nAggregated questions grouped by date, sourced from Reddit posts.\n\n---\n\n
+# Reddit Amazon Interview Question\n\nAggregated questions grouped by date, sourced from Reddit posts.
+
+---
 
 
 ### 🗓️ 2025-07-24
