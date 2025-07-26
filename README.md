@@ -8,6 +8,7 @@
 ### 🛠️ Technical / LLD / System Design
 - Variation of the Car Parking Management System.
 
+---
 
 ### 🗓️ 2025-07-23
 
@@ -22,6 +23,7 @@
 - Given a few dozen lines of code and asked to correct any mistakes/errors (related to linked lists).
 - Find the first missing positive.
 
+---
 
 ### 🗓️ 2025-07-22
 
@@ -37,6 +39,7 @@
 - Movie recommendation system (LLD, from Amazon)
 - LC Hard DP (from Amazon)
 
+---
 
 ### 🗓️ 2025-07-17
 
@@ -49,6 +52,7 @@
 - Rate Limiter LLD
 - File Filter LLD
 
+---
 
 ### 🗓️ 2025-07-14
 
@@ -66,6 +70,7 @@
 - Train Management System
 - Creating a custom data structure based on unique constraints and operations
 
+---
 
 ### 🗓️ 2025-07-12
 
@@ -79,6 +84,7 @@
 - Design TinyURL (HLD)
 - Design Unix file system (LLD)
 
+---
 
 ### 🗓️ 2025-07-10
 
@@ -87,6 +93,7 @@
 ### 🛠️ Technical / LLD / System Design
 - LFU Cache
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1lwopqz/my_amazon_sde1_interview_usa/)**
 
@@ -100,6 +107,7 @@
 - Binary tree problem.
 - Handling constraints like max tree depth, memory limits, and performance monitoring.
 
+---
 
 ### 🗓️ 2025-07-09
 
@@ -119,6 +127,7 @@
 - Design Amazon Lockers
 - Design Uber
 
+---
 
 ### 🗓️ 2025-07-07
 
@@ -127,6 +136,7 @@
 ### 🛠️ Technical / LLD / System Design
 - designing an Amazon Locker
 
+---
 
 ### 🗓️ 2025-07-04
 
@@ -139,6 +149,7 @@
 - Vertical sum of n-array tree.
 - Given a linked list, return final linked list such that ith and n-ith elements are merged (example: [1-&gt;2-&gt;3-&gt;4-&gt;5] output: [6-&gt;6-&gt;3]).
 
+---
 
 ### 🗓️ 2025-07-03
 
@@ -151,6 +162,7 @@
 - Heap question (vague prompt, encouraged to come up with constraints and assumptions).
 - Trie question.
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1lqy9uq/amazon_sde1_interview_experience/)**
 
@@ -159,6 +171,7 @@
 - Reverse a stack in O(N) time using O(1) space.
 - Design a data structure in which we can do Insert, Delete, Search and GetRandomNumber() with equal probability in O(1) time
 
+---
 
 ### 🗓️ 2025-07-02
 
@@ -167,6 +180,7 @@
 ### 🛠️ Technical / LLD / System Design
 - LRU Cache
 
+---
 
 ### 🗓️ 2025-06-29
 
@@ -184,6 +198,7 @@
 - Remove K Digits (Stack)
 - Minimum Cost to Reach Destination in Time (LC 1928)
 
+---
 
 ### 🗓️ 2025-06-24
 
@@ -196,6 +211,7 @@
 - A tree problem that required a twist
 - Design a messaging app with read receipts and offline sync
 
+---
 
 ### 🗓️ 2025-06-16
 
@@ -205,6 +221,7 @@
 - open-ended design-style question on n-ary trees
 - How would you handle things in a distributed setting where multiple users might interact with the data concurrently? (Follow-up to n-ary tree design)
 
+---
 
 ### 🗓️ 2025-06-10
 
@@ -219,6 +236,7 @@
 - How would I optimize it further?
 - What database would I pick and why?
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l7sw3p/amazon_sde_postgraduate_interview_experience/)**
 
@@ -229,6 +247,7 @@
 - A coding challenge (described as easy with follow-ups, no specific problem provided)
 - A problem solvable with backtracking and dynamic programming
 
+---
 
 ### 🗓️ 2025-06-09
 
@@ -237,6 +256,7 @@
 ### 🛠️ Technical / LLD / System Design
 - Library management system (LLD, including use of design patterns)
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l7b54r/amazon_sde_i_interview_new_grad_usa/)**
 
@@ -248,6 +268,7 @@
 - Variant of the Word Ladder problem (LC hard).
 - Reorganise String problem.
 
+---
 
 ### 🗓️ 2025-06-07
 
@@ -257,6 +278,7 @@
 - Parking Lot (design question)
 - Reorganize a string so that no two same characters are adjacent.
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l5tai0/amazon_l5_interview_experience/)**
 
@@ -266,6 +288,7 @@
 - Design a coupon system (LLD)
 - Design WhatsApp (HLD)
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l5x9sn/amazon_sde_1_interview_experience/)**
 
@@ -274,6 +297,7 @@
 - Expression evaluation with only addition and subtraction.
 - How would you extend expression evaluation if it involved multiplication and division?
 
+---
 
 ### 🗓️ 2025-06-06
 
@@ -283,6 +307,7 @@
 - Design an online store.
 - Variant of TOP-K elements.
 
+---
 
 ### 🗓️ 2025-06-04
 
@@ -295,6 +320,7 @@
 - Robot in a Matrix (Initially: move only right/down to reach bottom-right. Follow-up: support all 4 directions, disallow revisiting)
 - Next Greater Element (to the right) (For each index, return the next greater number to its right, or -1 if none)
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l3fkk4/amazon_sde_1_interview_loop_experience_us/)**
 
@@ -305,6 +331,7 @@
 - Find largest island.
 - If you can switch one piece of water to land, how would you do it to get largest island.
 
+---
 
 ### 🗓️ 2025-05-25
 
@@ -319,6 +346,7 @@
 - Daily Temperatures (LeetCode #739)
 - Currency Conversion (Graph/BFS, with follow-up to optimize to find best conversion rate)
 
+---
 
 ### 🗓️ 2025-05-24
 
@@ -335,6 +363,7 @@
 ### 🛠️ Technical / LLD / System Design
 - Design a data structure that required constant-time insert, delete, and random retrieval.
 
+---
 
 ### 🗓️ 2025-05-22
 
@@ -343,6 +372,7 @@
 ### 🧑‍💼 Behavioral
 - Tell me about a time you experienced an unexpected obstacle.
 
+---
 
 ### 🗓️ 2025-05-16
 
@@ -352,6 +382,7 @@
 - Design an API backend for file-searching, with support for recursive searching in sub-directories.
 - LRU Cache
 
+---
 
 ### 🗓️ 2025-05-14
 
@@ -363,6 +394,7 @@
 - Design parking lot for Amazon Foods grocery store
 - Reorganise string
 
+---
 
 ### 🗓️ 2025-05-11
 
@@ -374,6 +406,7 @@
 - 0,1,2 sorting
 - Amazon Locker
 
+---
 
 ### 🗓️ 2025-05-08
 
@@ -383,12 +416,14 @@
 - Given a Binary Search Tree (BST) and a range [min, max], the task is to remove all keys which are outside the given range. The modified tree should also be BST.
 - Making a Large Island
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1khjm6q/is_this_question_too_hard_for_amazon_l5/)**
 
 ### 🛠️ Technical / LLD / System Design
 - Given a list of friendships where each person knows the others. A friend group is defined as a group of 2 or more people such that everyone knows everyone else. How many such groups exist? Implement a function to return all such friend groups. (One person can be part of multiple groups)
 
+---
 
 ### 🗓️ 2025-05-07
 
@@ -403,6 +438,7 @@
 - Minimum Genetic Mutation (LC 451).
 - Median in a data stream (LC 295: Find Median from Data Stream).
 
+---
 
 ### 🗓️ 2025-05-06
 
@@ -411,6 +447,7 @@
 ### 🛠️ Technical / LLD / System Design
 - Similar to Course schedule with a variation and a follow up.
 
+---
 
 ### 🗓️ 2025-05-04
 
@@ -419,6 +456,7 @@
 ### 🛠️ Technical / LLD / System Design
 - Two Sum
 
+---
 
 ### 🗓️ 2025-04-30
 
@@ -428,6 +466,7 @@
 - Given an array, print all the subarrays with zero sum.
 - PoliceAndThief (GeeksForGeeks)
 
+---
 
 ### 🗓️ 2025-04-25
 
@@ -436,6 +475,7 @@
 ### 🧑‍💼 Behavioral
 - Question about my current work.
 
+---
 
 ### 🗓️ 2025-04-20
 
@@ -449,6 +489,7 @@
 - Two DSA problems related to trees.
 - Two coding questions related to hashmap and backtracking.
 
+---
 
 ### 🗓️ 2025-04-18
 
@@ -461,6 +502,7 @@
 - Permutations.
 - Linked list cycle.
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1k1yqeu/amazon_sde_interview_logger_rate_limiter_question/)**
 
@@ -468,6 +510,7 @@
 - Design a logger that receives messages and ensures that each unique message is printed only if it hasn’t been printed in the last 10 seconds.
 - What happens when the map gets overloaded as new messages keep coming in? (Follow-up to logger design)
 
+---
 
 ### 🗓️ 2025-04-11
 
@@ -487,6 +530,7 @@
 - Questions about tree-based ensemble methods (including how training is performed, industry standards).
 - Design a system relevant to the role (Science application/miniature system design, covering user numbers, existing systems, data collection, batch vs real-time processing, A/B testing).
 
+---
 
 ### 🗓️ 2025-04-09
 
@@ -504,6 +548,7 @@
 - What is the difference between a struct and class (C++)
 - What a block of C++ code prints out
 
+---
 
 ### 🗓️ 2025-04-02
 
@@ -513,6 +558,7 @@
 - Find time to finish dependent jobs when they are run in parallel and then in series.
 - Number of transformations needed to convert a begin word to an end word through a series of intermediate words.
 
+---
 
 ### 🗓️ 2025-03-31
 
@@ -524,6 +570,7 @@
 - Track one-time users vs. repeat users.
 - Design a lottery system (specifically, finding the user with the highest purchase amount, a "Top K elements" type of question).
 
+---
 
 ### 🗓️ 2025-03-30
 
@@ -535,6 +582,7 @@
 - Printing node values in a certain order, in a Binary Tree.
 - 3 SQL queries (1 + 2 follow-up)
 
+---
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1jntble/amazon_new_grad_interview/)**
 
@@ -543,6 +591,7 @@
 - Problem involving sorted sublists and requiring a priority queue.
 - Variation of the valid parentheses problem with two follow-ups.
 
+---
 
 ### 🗓️ 2025-03-22
 
@@ -554,6 +603,7 @@
 - If you were to learn it all over again, what would you do differently?
 - Tell me a time when you had a conflict with a team-mate or someone!
 
+---
 
 ### 🗓️ 2025-03-17
 
@@ -565,6 +615,7 @@
 - Given a binary tree, a target node, and a distance k, report all nodes at distance k from that target node (with a follow-up to solve without making an adjacency list).
 - Given an array of numbers, reach a target sum using three numbers.
 
+---
 
 ### 🗓️ 2025-03-12
 
@@ -585,6 +636,7 @@
 - Operating System questions (e.g., Deadlocks, mutexes, race condition, paging, segmentation, page replacement algorithms, thrashing, semaphores).
 - Networking questions (e.g., Switches, routers, IMAP, SMTP, DHCP, hubs, firewalls, enterprise firewalls, subnets, proxy servers, VPN, Tunneling).
 
+---
 
 ### 🗓️ 2025-03-10
 
@@ -596,6 +648,7 @@
 - Traverse a 2-D Matrix in a spiral manner.
 - Merge k sorted linked lists
 
+---
 
 ### 🗓️ 2025-03-05
 
@@ -608,6 +661,7 @@
 - Shortest Path in a Grid with Obstacles Elimination (LC)
 - Design APIs (as in class and objects) for Alexa which would take a string as input, match it up against rules and perform validations.
 
+---
 
 ### 🗓️ 2025-02-28
 
@@ -619,6 +673,7 @@
 - In a game of chess, you are given that there are `n` players, and a list of `m` matches between players. If a player has won a match from another player then it is said that the winning player has higher rank than the losing player. Also, if `ith` player wins from `jth` player then `ith` player will win from all the players `jth` player won from. The `matches` array will be a 2D array where `matches[i]` tells us that `matches[i][0]` won against `matches[i][1]`. You're tasked to return the maximum number of players for which you can deterministically identify the ranks.
 - Design cricket scoreboard application, something similar to Cricbuzz with commentary, score updates, innings analysis, and player analysis. You had to expose this application via API.
 
+---
 
 ### 🗓️ 2025-02-26
 
@@ -632,6 +687,7 @@
 - Currency exchange problem.
 - Design an Amazon warehouse/lockers gig.
 
+---
 
 ### 🗓️ 2025-02-24
 
@@ -645,6 +701,7 @@
 - Nodes at a k distance in a Binary Tree
 - Lowest Common Ancestor (LCA) in Binary Tree
 
+---
 
 ### 🗓️ 2025-02-23
 
@@ -654,6 +711,7 @@
 - Designing a system with crawler using a job scheduler.
 - Serialize and deserialize a data structure.
 
+---
 
 ### 🗓️ 2025-02-22
 
@@ -664,6 +722,7 @@
 - How was this out of your comfort zone?
 - What problem were you actually trying to solve?
 
+---
 
 ### 🗓️ 2025-02-19
 
@@ -677,6 +736,7 @@
 - Easy level stack question (from Neetcode 150)
 - Medium to hard DP question
 
+---
 
 ### 🗓️ 2025-02-18
 
@@ -688,6 +748,7 @@
 - A LeetCode hard question solvable using BFS.
 - A LeetCode medium-level problem solvable using BFS.
 
+---
 
 ### 🗓️ 2025-02-12
 
@@ -700,6 +761,7 @@
 - Employee tree (started as a tree question, later converted into a graph problem).
 - Design a Linux file system (with three extra filters).
 
+---
 
 ### 🗓️ 2025-01-30
 
@@ -711,6 +773,7 @@
 - LFU Cache (LC)
 - Implement LFU Cache using design principles, focusing on extensibility and maintainability.
 
+---
 
 ### 🗓️ 2025-01-28
 
@@ -722,6 +785,7 @@
 - LRU Cache (LeetCode problem).
 - Problem about finding the overlap of users on day1 and day2 where the data doesn't fit into memory.
 
+---
 
 ### 🗓️ 2025-01-27
 
@@ -730,4 +794,5 @@
 ### 🛠️ Technical / LLD / System Design
 - Given a binary array containing 0s and 1s. You can flip the bits at most k times. Return maximum sum of the length of subarrays, where each subarray is an array of only 1s and has length greater than given integer n. (Example: 1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,0,00,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,1, k = 2, n = 4, answer = 15. "maximum sum of the length of subarrays" means you can distribute your flips to multiple sub arrays. the final number will be sum of all these sub array's length. you need to return maximum final sum possible)
 
+---
 
