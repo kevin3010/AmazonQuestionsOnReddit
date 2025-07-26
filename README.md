@@ -3,6 +3,9 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 > Disclaimer: The questions presented here have been sourced from public posts on Reddit. I do not claim ownership of this content, nor do I assume any responsibility for its accuracy, completeness, or any implications arising from its use. All credit for the original questions belongs to their respective Reddit users.
 
+## [Aggregated LP Questions](LP/README.md)
+
+## Reddit Posts
 ### 🗓️ 2025-07-24
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1m89dt6/amazon_sde1_interview_experience/)**
