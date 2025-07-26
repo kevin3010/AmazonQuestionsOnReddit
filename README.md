@@ -14,8 +14,6 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1m77uli/amazon_sde1_interview_experience/)**
 
-### 🧑‍💼 Behavioral
-- General Leadership Principles questions
 ### 🛠️ Technical / LLD / System Design
 - Find the middle of a linked list + reverse it.
 - Word Search II.
@@ -29,15 +27,9 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1m6rhkv/amazon_and_goldman_sachs_us_sde_1_interview/)**
 
-### 🧑‍💼 Behavioral
-- Resume in-depth (from Goldman Sachs, though more a discussion area than a specific question)
-- SDLC/Agile related questions (from Goldman Sachs)
-- Discussion about my skillset and the team (from Goldman Sachs, though more a discussion area than a specific question)
 ### 🛠️ Technical / LLD / System Design
-- Design Movie Ticket Booking System (HLD, with follow ups about scalability and handling concurrent user requests) (from Goldman Sachs)
 - N-Queens variation + follow-up (from Amazon)
 - Movie recommendation system (LLD, from Amazon)
-- LC Hard DP (from Amazon)
 
 ---
 
@@ -104,7 +96,7 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 - Communicating pivots and managing expectations under tight deadlines.
 ### 🛠️ Technical / LLD / System Design
 - Designing a locker-fitting system where I had to model objects and handle dimension fitting permutations.
-- Binary tree problem.
+- Binary tree problem. (Implement BFS)
 - Handling constraints like max tree depth, memory limits, and performance monitoring.
 
 ---
@@ -114,18 +106,9 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1lvnd0t/meta_openai_google_amazon_top_system_design/)**
 
 ### 🛠️ Technical / LLD / System Design
-- Design LeetCode
-- Design a Ticket Booking System
-- Design an Ad Click Aggregator
-- Design Slack
-- Design a Payment System
-- Design a Webhook Callback System
-- Design a Global IP Address Blocking System
-- Design a Distributed Cache
-- Design a Trending Hashtags System
 - Design a URL Shortener
-- Design Amazon Lockers
-- Design Uber
+- Design Amazon Lockers - focus on everything from point of sale to package delivery in the locker.
+- Design Uber - Focus on the rider-driver matching flow rather than and post pickup navigation.
 
 ---
 
@@ -243,9 +226,6 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 ### 🧑‍💼 Behavioral
 - Tell me about a time when you demonstrated [Leadership Principle]
 - Questions related to the Leadership Principle "Learn and be curious"
-### 🛠️ Technical / LLD / System Design
-- A coding challenge (described as easy with follow-ups, no specific problem provided)
-- A problem solvable with backtracking and dynamic programming
 
 ---
 
@@ -260,9 +240,6 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1l7b54r/amazon_sde_i_interview_new_grad_usa/)**
 
-### 🧑‍💼 Behavioral
-- What is the difference between React and Next?
-- Tell me about a time when...
 ### 🛠️ Technical / LLD / System Design
 - Design a simple Pizza Order Calculator.
 - Variant of the Word Ladder problem (LC hard).
@@ -468,26 +445,12 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 ---
 
-### 🗓️ 2025-04-25
-
-**[Reddit Post](https://www.reddit.com/r/leetcode/comments/1k7omdn/amazon_india_sde1_interview_experience/)**
-
-### 🧑‍💼 Behavioral
-- Question about my current work.
-
----
-
 ### 🗓️ 2025-04-20
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1k3x9my/offer_amazon_sde1_new_grad_3_round_interview/)**
 
-### 🧑‍💼 Behavioral
-- Questions focused on leadership principles
-- Questions mostly around giving and receiving feedback
 ### 🛠️ Technical / LLD / System Design
 - Design/extensibility question around the Unix file system.
-- Two DSA problems related to trees.
-- Two coding questions related to hashmap and backtracking.
 
 ---
 
