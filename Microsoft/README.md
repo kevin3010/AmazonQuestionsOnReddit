@@ -70,21 +70,6 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 ---
 
-### 🗓️ 2025-03-11
-
-**[Reddit Post](https://www.reddit.com/r/leetcode/comments/1j9a8u6/45_system_design_questions_i_curated_for/)**
-
-### 🛠️ Technical / LLD / System Design
-- Design a Distributed Stream Processing System like Kafka
-- Design an API Rate Limiter
-- Design Google Analytics - User Analytics Dashboard and Pipeline
-- Design a System for Sorting Large Data Sets
-- Design Dropbox or Google Drive
-- Design a Job Scheduler
-- Find a Rider for Uber or Uber Eats
-
----
-
 ### 🗓️ 2025-02-08
 
 **[Reddit Post](https://www.reddit.com/r/leetcode/comments/1ikimqe/microsoft_summer_internship_2025_not_selected/)**
