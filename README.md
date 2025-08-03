@@ -1,9 +1,9 @@
 # 🚀 Reddit FAANG Interview Questions
 
-A curated collection of FAANG interview questions sourced directly from Reddit, organized by company and date. This repository is designed to help you prepare efficiently by providing real interview questions shared by candidates.
+Aggregated questions grouped by date, sourced from Reddit posts.
 
-> **Disclaimer**  
-> All questions are publicly available and sourced from Reddit posts. I do not claim ownership of this content and am not responsible for its accuracy, completeness, or any outcomes resulting from its use. All credit goes to the original Reddit users who shared these questions.
+> **Disclaimer** \
+> The questions presented here have been sourced from public posts on Reddit. I do not claim ownership of this content, nor do I assume any responsibility for its accuracy, completeness, or any implications arising from its use. All credit for the original questions belongs to their respective Reddit users.
 
 
 
