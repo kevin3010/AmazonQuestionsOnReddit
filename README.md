@@ -13,9 +13,9 @@ Aggregated questions grouped by date, sourced from Reddit posts.
 
 | Company         | Reddit Questions                          | Common LP/Behavioral Questions | Last Updated |
 |------------------|-------------------------------------------|----------------------------------------------|--------------|
-| 🛒 **Amazon**     | [View Questions](./Amazon/README.md)      | [View LP Questions](./Amazon/LP/README.md)   | —            |
-| 📘 **Meta**       | [View Questions](./Meta/README.md)        | —                                            | —            |
-| 💻 **Microsoft**  | [View Questions](./Microsoft/README.md)   | —                                            | —            |
+| 🛒 **Amazon**     | [View Questions](./Amazon/README.md)      | [View LP Questions](./Amazon/LP/README.md)   | 24th July, 2025           |
+| 📘 **Meta**       | [View Questions](./Meta/README.md)        | —                                            | 2nd August, 2025            |
+| 💻 **Microsoft**  | [View Questions](./Microsoft/README.md)   | —                                            | 2nd August, 2025            |
 
 ---
 
